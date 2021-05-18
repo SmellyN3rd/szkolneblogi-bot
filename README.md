@@ -20,9 +20,9 @@ This script aims to boost your blog on the [szkolneblogi](https://szkolneblogi.p
 
 option        | description
 ------------- | -------------
---url    -u        | provide the url of your blog
---likes    -l    | set the amount of likes each post will recive
---threads -t    | change the amount of threads the program will use
---log-file    -f        | set the file to which the script will save its output
---headless    -h    | toogle headless mode (without browser gui)
+--url or -u | url of your blog
+--likes or -l | set the amount of likes each article will recive
+--threads or -t | change the amount of threads the program will use
+--log-file or -f | set the file to which the script will save its output
+--headless or -h | toogle headless mode
 
